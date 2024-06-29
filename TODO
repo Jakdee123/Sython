@@ -1,0 +1,6 @@
+make a "repeat" loop func. example:
+'''py
+def repeat(amount):
+  for __repeat__ in range(amount):
+    ...
+'''
