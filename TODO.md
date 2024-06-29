@@ -1,4 +1,4 @@
-make a "repeat" loop func. example on how it would work:
+make a "repeat" loop func. example on how it would be made in python:
 ```py
 def repeat(amount):
   for __repeat__ in range(amount):
