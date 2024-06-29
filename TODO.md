@@ -1,9 +1,9 @@
 make a "repeat" loop func. example on how it would work:
-'''py
+```py
 def repeat(amount):
   for __repeat__ in range(amount):
     ...
-'''
+```
 
 add built-in GUI, 2D, 3D, Graphing, Backend, Automation, and Library making libraries
 
