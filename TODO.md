@@ -19,8 +19,8 @@ use {name of list, dict, etc}.add to add to lists, dictionaries, etc
 
 var's are always floats
 
-no 'as' for importing (Always like`
-``py
+no 'as' for importing (Always like
+```py
 math.sin()
 ```
 instead of
