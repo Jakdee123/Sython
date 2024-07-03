@@ -5,7 +5,7 @@ def repeat(amount):
     ...
 ```
 
-add built-in GUI, 2D, 3D, Graphing, Backend, Automation, Math, and Library making libraries
+add built-in GUI (SyQt (Qt for Sython), Sivy (Kivy for Sython)), 2D (like Pygame) , 3D (like Panda3D), Graphing (Like matplotlib), Backend, Automation, Math (Like math and mpmath), and Library making libraries
 
 enable instead of import
 
