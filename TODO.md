@@ -5,7 +5,7 @@ def repeat(amount):
     ...
 ```
 
-add built-in GUI, 2D, 3D, Graphing, Backend, Automation, and Library making libraries
+add built-in GUI, 2D, 3D, Graphing, Backend, Automation, Math, and Library making libraries
 
 enable instead of import
 
