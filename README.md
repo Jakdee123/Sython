@@ -1,4 +1,4 @@
-# Sython
+# Simpthon
 Simplified python for extreme beginners 
 
 Copyright 2024 Jacob D
